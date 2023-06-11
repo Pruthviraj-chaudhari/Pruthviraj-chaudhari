@@ -7,7 +7,7 @@
 <h1 align="center">Hey 👋, I'm Pruthviraj</h1>
 <div align="center" style="text-align: center;">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&pause=1000&color=FFFFFF&width=600&lines=I'm+a+self-taught+passionate+Web+Developer+from+India." alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&pause=1000&color=FFFFFF&width=700&lines=I'm+a+self-taught+passionate+Full-Stack+Web+Developer+from+India." alt="Typing SVG" />
     </a>
 </div>
 
