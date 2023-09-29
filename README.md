@@ -15,7 +15,7 @@
 <h3 align="center">I do Open Source. ❤️</h3>
 <h4 align="center">My Portfolio: https://pruthviraj-portfolio-site.netlify.app/ </h4>
 <div align="center">
-  <a align="center" href="https://drive.google.com/file/d/1qi3lUN5awiYhFWu5lWxG8uaYuwpR9Mk1/view">
+  <a align="center" href="https://drive.google.com/file/d/1SOmkCf6KaPxBTUc_r6jHI8Hs9gbfb_Ut/view">
     <strong>My Resume</strong>
   </a>
 </div>
