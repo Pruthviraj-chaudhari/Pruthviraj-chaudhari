@@ -27,7 +27,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-- 👯 I’m solved around 200+ DSA problems on various platforms.
+- 👯 I’m solved around 400+ DSA problems on various platforms.
 
 - 👨‍💻 All of my projects are available at **[My Github](https://github.com/pruthviraj-chaudhari?tab=repositories)**
 
