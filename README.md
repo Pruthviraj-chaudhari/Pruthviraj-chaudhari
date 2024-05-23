@@ -23,7 +23,9 @@
 
 ## About Me
 
-- 🔭 I’m B.Tech computer science student and Graduate in 2025. 
+- 🔭 I’m B.Tech computer science student and Graduate in 2025.
+
+- 👨‍💻 Building scalable WebApps using Next.js & specialized in MERN stack. 
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
